@@ -6,5 +6,5 @@
   Windows : gcc PassX.c -o passx
   Linux : gcc PassX.c -o passx -lm
  <br> 
-  <br>
-  ![For Windows](PassXWin.png)  
+ <br>
+ * ![For Windows](PassXWin.png)  
