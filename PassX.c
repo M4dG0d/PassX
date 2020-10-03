@@ -148,8 +148,3 @@ int main(){
     check();
     return 0;
 }
-
-// Reference : https://thycotic.force.com/support/s/article/Calculating-Password-Complexity
-// Reference : https://www.khanacademy.org/college-careers-more/personal-finance/keeping-your-information-safe/password-strength-and-other-strategies/v/math-behind-password-security
-// Reference : https://en.wikipedia.org/wiki/Password_cracking
-// Reference : https://projects.lambry.com/elpassword/
