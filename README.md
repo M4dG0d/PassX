@@ -11,3 +11,7 @@
   Linux : gcc PassX.c -o passx -lm <br>
   
 *   ![For Linux](PassXLin.png)<br>
+
+* Wordlist :<br>
+I have used list of 100 common passwords from SecLists. You can use any wordlist for bruteforcing.<br>
+Note : Larger the wordlist file more time it will take to bruteforce a password.
