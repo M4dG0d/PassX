@@ -5,12 +5,14 @@
 * Compile : <br>
   Windows : gcc PassX.c -o passx<br>
  
- *  ![For Windows](PassXWin.png)  
+  ![For Windows](PassXWin.png)  
+  <br>
 
 * Compile : <br>
   Linux : gcc PassX.c -o passx -lm <br>
   
-*   ![For Linux](PassXLin.png)<br>
+   ![For Linux](PassXLin.png)<br>
+  <br>
 
 * Wordlist :<br>
 I have used list of 100 common passwords from SecLists. You can use any wordlist for bruteforcing.<br>
