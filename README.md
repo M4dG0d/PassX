@@ -10,7 +10,7 @@
   ![For Windows](PassXWin.png)  
   <br>
 
-* Compile : <br>
+* Compile and run : <br>
   Linux : gcc PassX.c -o passx -lm && ./passx <br>
   
    ![For Linux](PassXLin.png)<br>
