@@ -4,12 +4,14 @@
 
 * Compile : <br>
   Windows : gcc PassX.c -o passx<br>
+  Run : .\passx.exe  
+  <br>
  
   ![For Windows](PassXWin.png)  
   <br>
 
 * Compile : <br>
-  Linux : gcc PassX.c -o passx -lm <br>
+  Linux : gcc PassX.c -o passx -lm && ./passx <br>
   
    ![For Linux](PassXLin.png)<br>
   <br>
